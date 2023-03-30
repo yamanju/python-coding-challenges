@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gürdal</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://whatsabyte.com/wp-content/uploads/math-1.jpg" alt="Math Theory Mathematics Calculus on Class Vector">
-</div>
 
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
+
+<p align="center">
+  <img src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/4e30142a268b.jpg" width="800" height="400">
+</p>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="400">
