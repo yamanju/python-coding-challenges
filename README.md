@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gürdal</h1>
 <div style="text-align: center;">
-  <img src="https://cdn3.vectorstock.com/i/1000x1000/32/22/math-theory-mathematics-calculus-on-class-vector-33163222.jpg" alt="Math Theory Mathematics Calculus on Class Vector">
+  <img src="https://whatsabyte.com/wp-content/uploads/math-1.jpg" alt="Math Theory Mathematics Calculus on Class Vector">
 </div>
 
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
