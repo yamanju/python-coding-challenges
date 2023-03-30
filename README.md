@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gürdal</h1>
-<div style="text-align: center;">
+<h3 align="center">A passionate Data Scientist from Turkey</h3>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://whatsabyte.com/wp-content/uploads/math-1.jpg" alt="Math Theory Mathematics Calculus on Class Vector">
 </div>
 
