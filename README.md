@@ -5,7 +5,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="400">
 </p>
 
-<p align="left"> <a href="https://twitter.com/@yaman_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@yaman_dev?logo=twitter&style=for-the-badge" alt="@yaman_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@yaman_dev" target="blank"><img src="https://img.shields.io/twitter/follow/yaman_dev?logo=twitter&style=for-the-badge" alt="@yaman_dev" /></a> </p>
 
 - 🌱 I’m currently learning **Numpy, Pandas, Seeborn**
 
