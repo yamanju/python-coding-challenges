@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gürdal</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Data Science from Turkey</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="400">
