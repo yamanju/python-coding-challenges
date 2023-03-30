@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" height="500">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="600">
 </p>
 
 <p align="left"> <a href="https://twitter.com/@yaman_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@yaman_dev?logo=twitter&style=for-the-badge" alt="@yaman_dev" /></a> </p>
